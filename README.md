@@ -55,10 +55,12 @@ The visualizations created in Tableau can be found in the `/visualizations` dire
 
 ### Social Support Rates by Country
 ![Social Support Rates by Country](/visualisations/Social_support_by_country.png)
+
 This chart shows the countries with high social support, colored in green, and countries with low social support, colored in red. For instance, countries in Africa and South Asia have less social support compared to American and European countries.
 
 ### Suicide Rates by Country
 ![Suicide Rates by Country](/visualisations/Suicide_rates_by_country.png)
+
 This chart displays countries with high suicide rates, colored in red, and countries with low suicide rates, colored in green. For example, Russia has a higher suicide rate than other countries, unlike Saudi Arabia, which has the lowest suicide rate.
 
 
